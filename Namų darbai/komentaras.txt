@@ -1,0 +1,12 @@
+1. Puikiai
+2. Reikëtø naudoti semantinius elementus. Uþduoties pavyzdyje taip pat buvo naudojamas trumpinys DNR, kuriam reikëtø
+naudoti <abbr> elementà. Jûsø atliktoje uþduotyje naudojamas tik elementas <i>, kuris nëra semantinis. 2 paskaitos 6 skaidrëje rasite daugiau apie teksto semantikà. Galima panaudoti tokius elementus kaip: <abbr>, <acronym>, <cite>,
+<q>, <strong> ir panaðiai kai norime daugiau iðskirti ne vartotojui, SEO (Search Engine Optimization)
+3. Puikiai
+4. Nuotraukos ákeltos - puiku. Taèiau kai yra tekstas po nuotrauka (ar kitu objektu) naudojame elementus <figure> ir <figcaption> https://www.w3schools.com/tags/tag_figcaption.asp
+5. -
+6. Labai gerai. Gal tik reikëtø padirbëti su atitraukimais nuo kraðto paèiame html kode.
+7. Gerai. HTML kode nerekomenduoju naudto didþiøjø raidþiø elementams. Taip pat reiktø padirbëti su atitraukimais nuo kraðto. Pvz. po body elemento tokie elementai ðioje uþduotyje kaip h1, ul, p, a, iframe yra vienoje linijoje.
+8. Puikiai
+9. Neblogai. Tik reikëjo nubraiþyti visà ðaðkiø lentà. Ir nereikia kiekvienam kvadratui atskiro SVG elemento, kai galima visus kvadratus sudëti á vienà svg elementà.
+10. Nebaigtas kalendorius.
