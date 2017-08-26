@@ -10,3 +10,5 @@ naudoti <abbr> elementà. Jûsø atliktoje uþduotyje naudojamas tik elementas <i>, 
 8. Puikiai
 9. Neblogai. Tik reikëjo nubraiþyti visà ðaðkiø lentà. Ir nereikia kiekvienam kvadratui atskiro SVG elemento, kai galima visus kvadratus sudëti á vienà svg elementà.
 10. Nebaigtas kalendorius.
+21. Uþduotyje buvo praðoma sukurti funkcijà.
+22. Viena funkcija paraðyta, taèiau kita neuþbaigta.
